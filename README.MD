@@ -2,7 +2,7 @@
 # Plant-Landing-Page-Project-6-
 **Name:-** Pavan Tiwari
 
-## [Live-Link]()
+## [Live-Link](https://plant-landing-page-project-6.vercel.app/)
 
 ***
 
