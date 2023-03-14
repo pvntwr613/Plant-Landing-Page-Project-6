@@ -1,0 +1,149 @@
+
+
+*{
+    margin: 0;
+    padding: 0px 0px;
+    box-sizing: border-box;
+    font-family: "Red Rose";
+    
+}
+body {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+
+}
+
+/* Navbar  */
+#navbarMonstera {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-top: 35px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+
+
+#navMid {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  margin-left: -300px;
+}
+
+
+#navMid h4 {
+    display: inline-block;
+    padding: 10px 50px;
+    font-size: 25px;
+    font-weight: 650;
+}
+
+
+#navEnd {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+}
+
+
+#navEnd div {
+    padding: 10px 20px;
+}
+
+/* Mid-Part  */
+
+#midWhole {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* Mid-part left  */
+#midWholePart1 {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+   
+}
+
+#midWholePart11 {
+    position: absolute;
+    display: inline-block;
+    top: 300px;
+    left: 50px;
+    width: 80%;
+    line-height: 1.2;
+    font-size: 30px;
+}
+
+#monstera {
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -2px;
+    font-size: 140px;
+    font-weight: 1000;
+    letter-spacing: 10px;
+    font-family: 'Oxanium' ;
+    width: 100%;
+     
+}
+
+#monstera li{
+    font-size: xx-large;
+}
+
+
+
+#midWholePart12 {
+    position: absolute;
+    top: 430px;
+    left: 50px;
+}
+
+#midWholePart121 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 81px;
+    top: 100px;
+    position: absolute;
+    color: #ffffff;
+    border: 2px solid rgb(61, 114, 58) ;
+    border-radius: 50px;
+    background-color: rgb(61, 114, 58);
+
+}
+
+#midWholePart122 {
+    
+    padding: 5px 10px;
+    left: 40px;
+}
+
+#midWholePart13 {
+    display: flex;
+    margin-top: 560px;
+    width: 70%;
+   
+}
+
+.midWholePart13Parts {
+    display: flex;
+    top: 100px;
+    left: 150px;
+    position: relative;
+}
+
+/* Mid-part right  */
+#imgMain {
+    position: absolute;
+    left: 1290px;
+    height: 90vh;
+    
+}
+
+
